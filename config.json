@@ -1,13 +1,14 @@
 {
-
-    "OWNER_ID":"513728046662942722",
-    "BOT_TOKEN": "",
-    "tenorAPI":"ZEEELJXAFQBN",
-    "DEFAULT_PREFIX":"!",
-    "mongoPass": "",
-    "ERROR_LOGS_CHANNEL": "",
-    "ALEXFLIPNOTE_API_KEY":"",
-    "YT_COOKIE": ""
-    
+  "main_token": "", 
+  "mongodb_url": "",
+  "alexflipnoteApiKey":"",
+  "developers": ["513728046662942722"],
+  "datadogApiKey": "",
+  "dashboard":"true", 
+  "prefix":"p!",
+  "arc":"",
+  "youtube_key":"",
+  "cat_api_key":"",
+  "webhook_id":"",
+  "webhook_url":""
 }
-

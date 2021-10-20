@@ -1,44 +1,59 @@
-const discord = require("discord.js");
-const mapping = {
-  " ": "   ",
-  0: ":zero:",
-  1: ":one:",
-  2: ":two:",
-  3: ":three:",
-  4: ":four:",
-  5: ":five:",
-  6: ":six:",
-  7: ":seven:",
-  8: ":eight:",
-  9: ":nine:",
-  "!": ":grey_exclamation:",
-  "?": ":grey_question:",
-  "#": ":hash:",
-  "*": ":asterisk:",
-};
+const Command = require('../../structures/Command');
+const Guild = require('../../database/schemas/Guild');
+const specialCodes = {
+  '0': ':zero:',
+  '1': ':one:',
+  '2': ':two:',
+  '3': ':three:',
+  '4': ':four:',
+  '5': ':five:',
+  '6': ':six:',
+  '7': ':seven:',
+  '8': ':eight:',
+  '9': ':nine:',
+  '#': ':hash:',
+  '*': ':asterisk:',
+  '?': ':grey_question:',
+  '!': ':grey_exclamation:',
+  ' ': '   '
+}
 
-"abcdefghijklmnopqrstuvwxyz".split("").forEach((c) => {
-  mapping[c] = mapping[c.toUpperCase()] = ` :regional_indicator_${c}:`;
-});
-
-module.exports = {
-  name: "emojify",
-  aliases: [],
-  category: "Fun",
-  usage: "emojify <text>",
-  description: "Returns provided text in emojify (emotes) form.",
-  botPerms: ["MANAGE_MESSAGES"],
-  run: async (client, message, args) => {
-    if (args.length < 1) {
-      message.channel.send("You must provide some text to emojify!");
+module.exports = class extends Command {
+    constructor(...args) {
+      super(...args, {
+        name: 'emojify',
+        description: 'Emojifies the given text.',
+        category: 'Fun',
+        examples: [ 'emojify POG! '],
+        cooldown: 3
+      });
     }
-    message.delete();
-    message.channel.send(
-      args
-        .join(" ")
-        .split("")
-        .map((c) => mapping[c] || c)
-        .join("")
-    );
-  },
+
+    async run(message, args) {
+      const client = message.client
+      const guildDB = await Guild.findOne({
+          guildId: message.guild.id
+        });
+      
+        const language = require(`../../data/language/${guildDB.language}.json`)
+
+
+      let text = message.content.slice(message.content.indexOf(args[0]), message.content.length);
+      if (!args[0]) return message.channel.send(`${language.emojify}`)
+      const user = message.mentions.users.first();
+     if (user) return message.channel.send(`${language.dontmention}`)
+  
+      const emojified = text.toString().toLowerCase().split('').map(letter => {
+        if (/[a-z]/g.test(letter)) {
+          return `:regional_indicator_${letter}: `
+        } else if (specialCodes[letter]) {
+          return `${specialCodes[letter]} `
+        }
+        return letter
+      }).join('').replace(/,/g, '     ')
+      message.channel.send(emojified).catch(() => {
+
+        message.channel.send(`${language.emojifyError}`).catch(() => {})
+      })
+    }
 };

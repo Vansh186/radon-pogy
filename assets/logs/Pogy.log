@@ -1,0 +1,740 @@
+2021-10-15 20:07:31 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:07:32 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:00 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:04 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:09:06 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:09 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:09:10 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:12 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:15 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:09:16 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:17 [[32minfo[39m] [[36mRate Limit[39m] Time out: 895ms. Limit: 2
+2021-10-15 20:09:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:20 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:21 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:26 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:27 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:32 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:32 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:36 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:38 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:38 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:39 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:41 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:45 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:45 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:50 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:50 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:52 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:09:53 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:55 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:56 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:09:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:00 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:18 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:21 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:10:23 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:27 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:27 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:10:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:33 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:33 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:35 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:39 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:41 [[32minfo[39m] [[36mRate Limit[39m] Time out: 1666ms. Limit: 2
+2021-10-15 20:10:41 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:43 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:10:47 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:48 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:53 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:10:55 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:10:59 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:04 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:06 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:09 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:11 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:26 [[32minfo[39m] [[36mRate Limit[39m] Time out: 806ms. Limit: 2
+2021-10-15 20:11:26 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:29 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:11:33 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:38 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:44 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:47 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:49 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:11:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:11:58 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:01 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:06 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:11 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:16 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:27 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:35 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:39 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:12:44 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:44 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:12:46 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:50 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:12:51 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:53 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:12:54 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:55 [[32minfo[39m] [[36mShard[39m] Launching Shard 5
+2021-10-15 20:12:56 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:12:57 [[32minfo[39m] [[36mRate Limit[39m] Time out: 603ms. Limit: 2
+2021-10-15 20:12:58 [[32minfo[39m] [[36mRate Limit[39m] Time out: 1001ms. Limit: 2
+2021-10-15 20:13:00 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:09 [[32minfo[39m] [[36mRate Limit[39m] Time out: 999ms. Limit: 2
+2021-10-15 20:13:10 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:13:11 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:13:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:21 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:13:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:32 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:13:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:37 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:13:41 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:42 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:13:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:51 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:13:59 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:10 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:15 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:26 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:31 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:37 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:42 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:53 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:14:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:14:59 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:10 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:15 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:21 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:26 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:34 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:37 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:41 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:43 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:47 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:49 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:54 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:15:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:15:59 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:15 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:26 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:34 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:36 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:42 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:47 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:51 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:16:53 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:16:56 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:16:57 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:16:59 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:17:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:02 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:17:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:03 [[32minfo[39m] [[36mRate Limit[39m] Time out: 595ms. Limit: 2
+2021-10-15 20:17:03 [[32minfo[39m] [[36mRate Limit[39m] Time out: 700ms. Limit: 2
+2021-10-15 20:17:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:05 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:06 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:06 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:09 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:15 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:15 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:20 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:21 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:17:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:26 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:17:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:32 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:34 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:17:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:38 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:41 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:44 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:46 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:17:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:50 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:50 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:54 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:17:58 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:18:02 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:18:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:18:08 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:18:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:13 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:18:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:14 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:16 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:18:17 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:19 [[32minfo[39m] [[36mShard[39m] Launching Shard 5
+2021-10-15 20:18:20 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:21 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:18:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:26 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:26 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:18:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:36 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:41 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:18:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:19 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:19:23 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:19:28 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:19:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:33 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:34 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:19:34 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:36 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:19:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:38 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:39 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:41 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:19:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:44 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:45 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:47 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:19:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:50 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:51 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:53 [[32minfo[39m] [[36mRate Limit[39m] Time out: 1324ms. Limit: 2
+2021-10-15 20:19:55 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:56 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:19:58 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:20:00 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:07 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:07 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:09 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:20:10 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:16 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:22 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:27 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:20:28 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:29 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:34 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:36 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:36 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:40 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:20:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:54 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:54 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:55 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:58 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:20:59 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:00 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:03 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:21:04 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:06 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:06 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:10 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:12 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:16 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:18 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:19 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:21 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:21:22 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:24 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:28 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:21:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:11 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:15 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:24:17 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:21 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:24:21 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:23 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:26 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:24:27 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:27 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:29 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:30 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:32 [[32minfo[39m] [[36mShard[39m] Launching Shard 5
+2021-10-15 20:24:32 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:33 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:33 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:38 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:39 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:41 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:43 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:44 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:45 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:51 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:52 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:24:53 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:53 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:56 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:57 [[32minfo[39m] [[36mRate Limit[39m] Time out: 1014ms. Limit: 2
+2021-10-15 20:24:57 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:24:59 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:01 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:02 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:05 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:07 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:08 [[32minfo[39m] [[36mShard[39m] Shard 3/5 is connected
+2021-10-15 20:25:08 [[32minfo[39m] [[36mRate Limit[39m] Time out: 1291ms. Limit: 2
+2021-10-15 20:25:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:09 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:25:11 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:13 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:25:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:26:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:26:25 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:26:27 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:26:31 [[32minfo[39m] [[36mShard[39m] Launching Shard 3
+2021-10-15 20:26:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:33 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:26:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:35 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:36 [[32minfo[39m] [[36mShard[39m] Launching Shard 4
+2021-10-15 20:26:40 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:45 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:47 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:49 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:52 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:53 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:55 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:56 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:26:58 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:26:59 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:00 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:03 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:04 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:05 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:16 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:27:16 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:20 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:25 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:27 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:32 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:36 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:41 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:44 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:46 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:50 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:27:51 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:58 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:27:58 [[32minfo[39m] [[36mRate Limit[39m] Time out: 977ms. Limit: 2
+2021-10-15 20:28:04 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-15 20:28:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:08 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:10 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:12 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:15 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:17 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:21 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:26 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:31 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:37 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:38 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:42 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:44 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:48 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:49 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:28:54 [[32minfo[39m] [[36mDebug[39m] 429 hit on route /gateway/bot
+2021-10-15 20:28:54 [[32minfo[39m] [[36mRate Limit[39m] Time out: 710ms. Limit: 2
+2021-10-15 20:28:55 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:28:55 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:32:07 [[32minfo[39m] [[36mShard[39m] Shard 1/1 has resumed
+2021-10-15 20:33:57 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:33:58 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:35:09 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:35:10 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:35:23 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:35:23 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:35:50 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:35:51 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:37:15 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:37:16 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:39:14 [[32minfo[39m] [[36mGuilds[39m] Joined to "NERD HUB" (892863407047475200)
+2021-10-15 20:42:13 [[32minfo[39m] [[36mCommand[39m] "!setnews" (setnews) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:42:39 [[32minfo[39m] [[36mCommand[39m] "!setnews  testing" (setnews) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:42:54 [[32minfo[39m] [[36mCommand[39m] "!setnews  testing" (setnews) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#news" (896663792249880576)
+2021-10-15 20:43:26 [[32minfo[39m] [[36mCommand[39m] "!maintenance" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:43:36 [[32minfo[39m] [[36mCommand[39m] "!maintenance enable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:43:37 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:43:38 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-15 20:44:05 [[32minfo[39m] [[36mCommand[39m] "!maintenance disable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:44:07 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:44:08 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:44:17 [[32minfo[39m] [[36mCommand[39m] "!fetchinvite" (fetchinvite) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:44:37 [[32minfo[39m] [[36mCommand[39m] "!fetchinvite 890664906825801829" (fetchinvite) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:45:11 [[32minfo[39m] [[36mCommand[39m] "!addbadge <@!513728046662942722> Developer" (addbadge) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:45:43 [[32minfo[39m] [[36mCommand[39m] "!servers" (servers) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:45:56 [[32minfo[39m] [[36mCommand[39m] "!restart" (restart) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:45:57 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 20:45:58 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-15 20:46:13 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:46:25 [[32minfo[39m] [[36mCommand[39m] "!help information" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:46:35 [[32minfo[39m] [[36mCommand[39m] "!shards" (shards) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#errors" (890664907400446006)
+2021-10-15 20:47:47 [[32minfo[39m] [[36mGuilds[39m] Joined to "Electric Host" (834488916014661752)
+2021-10-15 20:47:59 [[32minfo[39m] [[36mGuilds[39m] Joined to "vVv Esports" (891981473563942922)
+2021-10-15 20:51:36 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "NERD HUB" (892863407047475200) channel "#general" (892863407047475203)
+2021-10-15 20:52:28 [[32minfo[39m] [[36mGuilds[39m] Joined to "BlueEyeAlphaTTV" (866757853192126525)
+2021-10-15 20:54:43 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:54:50 [[32minfo[39m] [[36mCommand[39m] "!help fun" (help) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:55:32 [[32minfo[39m] [[36mGuilds[39m] Joined to "Severity Esports" (871552782417674271)
+2021-10-15 20:55:38 [[32minfo[39m] [[36mCommand[39m] "!nuke" (nuke) ran by "DevCynx#9679" (513728046662942722) on guild "Severity Esports" (871552782417674271) channel "#》lounge" (871552782828728355)
+2021-10-15 20:55:50 [[32minfo[39m] [[36mCommand[39m] "!nuke" (nuke) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:56:10 [[32minfo[39m] [[36mCommand[39m] "!say Yo, Im insane!" (say) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:56:27 [[32minfo[39m] [[36mCommand[39m] "!joke" (joke) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:56:43 [[32minfo[39m] [[36mCommand[39m] "!f" (f) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:56:52 [[32minfo[39m] [[36mCommand[39m] "!simprate <@!429124619832918016>" (simprate) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:56:58 [[32minfo[39m] [[36mCommand[39m] "!gayrate <@!429124619832918016>" (howgay) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:57:11 [[32minfo[39m] [[36mCommand[39m] "!rate anime" (rate) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:57:18 [[32minfo[39m] [[36mCommand[39m] "!rate James Bond" (rate) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:57:29 [[32minfo[39m] [[36mCommand[39m] "!uselessweb" (uselessweb) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 20:58:16 [[32minfo[39m] [[36mGuilds[39m] Left from "vVv Esports" (891981473563942922)
+2021-10-15 20:58:21 [[32minfo[39m] [[36mGuilds[39m] Joined to "vVv Esports" (891981473563942922)
+2021-10-15 21:00:17 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 21:00:25 [[32minfo[39m] [[36mCommand[39m] "!help owner" (help) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 21:00:38 [[32minfo[39m] [[36mCommand[39m] "!addbadge <@!429124619832918016> Person" (addbadge) ran by "DevCynx#9679" (513728046662942722) on guild "vVv Esports" (891981473563942922) channel "#general" (891981475040329749)
+2021-10-15 21:01:02 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-15 21:01:03 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:33:27 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:33:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:35:33 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:35:34 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:36:25 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:36:26 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:36:35 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:36:36 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:40:28 [[32minfo[39m] [[36mCommand[39m] "!hack <@!513728046662942722>" (hack) ran by "AeroSyU#3016" (706850821769396264) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:41:37 [[32minfo[39m] [[36mCommand[39m] "!hack <@!706850821769396264>" (hack) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:41:49 [[32minfo[39m] [[36mCommand[39m] "!maintenance enable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:41:51 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:41:51 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-16 19:44:07 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:49:17 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:49:18 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-16 19:49:44 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:49:45 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-16 19:54:08 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:54:09 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-16 19:54:13 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:54:14 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-16 19:56:26 [[32minfo[39m] [[36mCommand[39m] "!maintenance disable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:56:28 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 19:56:29 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 19:58:29 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 19:58:40 [[32minfo[39m] [[36mGuilds[39m] Joined to "vVv Esports" (891981473563942922)
+2021-10-16 20:00:04 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:00:05 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:00:33 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:00:34 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:00:43 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:00:44 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:01:34 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:01:35 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:02:27 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:02:28 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:03:17 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:03:18 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:03:22 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Canvas Studios!" (890664906825801829) channel "#general" (890664906997776500)
+2021-10-16 20:04:07 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:04:08 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:05:16 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:05:17 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:05:33 [[31merror[39m] [[36mShard[39m] Shard 1/1 has disconnected
+2021-10-16 20:07:25 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:07:27 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:10:08 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-16 20:10:08 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-16 20:11:25 [[32minfo[39m] [[36mGuilds[39m] Left from "vVv Esports" (891981473563942922)
+2021-10-16 20:11:40 [[32minfo[39m] [[36mGuilds[39m] Joined to "vVv Esports" (891981473563942922)
+2021-10-19 16:50:47 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 16:50:49 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 16:53:09 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 16:53:16 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 16:53:18 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 16:54:01 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 16:54:03 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:19:38 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:19:40 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:20:46 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:20:48 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:24:01 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:24:03 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:27:00 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:27:03 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:31:35 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:31:36 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:32:02 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:32:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:32:40 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:32:42 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:37:03 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:37:05 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:38:56 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:38:58 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 17:39:54 [[32minfo[39m] [[36mGuilds[39m] Joined to "NERD HUB" (892863407047475200)
+2021-10-19 17:48:19 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 17:48:21 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:01:20 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:01:22 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:01:51 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:01:53 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:16:58 [[32minfo[39m] [[36mCommand[39m] "!suggest testing" (suggest) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:17:33 [[32minfo[39m] [[36mCommand[39m] "!suggest testing v2" (suggest) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:19:05 [[32minfo[39m] [[36mCommand[39m] "!invite" (invite) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#spam-logs" (899726939953197092)
+2021-10-19 18:21:37 [[32minfo[39m] [[36mGuilds[39m] Joined to "test server" (888699926840754177)
+2021-10-19 18:24:02 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:24:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:24:37 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:24:39 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:24:40 [[32minfo[39m] [[36mCommand[39m] "!invite" (invite) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#spam-logs" (899726939953197092)
+2021-10-19 18:24:55 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#spam-logs" (899726939953197092)
+2021-10-19 18:26:57 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:26:59 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:31:50 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:31:52 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:32:45 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:32:46 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:33:13 [[32minfo[39m] [[36mCommand[39m] "!av" (avatar) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 18:34:38 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:34:40 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:36:15 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:36:17 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:37:47 [[32minfo[39m] [[36mCommand[39m] "!hack <@!513728046662942722>" (hack) ran by "AeroSyU#3016" (706850821769396264) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:39:53 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:39:54 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:40:24 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:41:23 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "Xerox#0190" (883751808697257985) on guild "test server" (888699926840754177) channel "#ticket" (894210324859854848)
+2021-10-19 18:41:35 [[32minfo[39m] [[36mCommand[39m] "!help alt detactor" (help) ran by "Xerox#0190" (883751808697257985) on guild "test server" (888699926840754177) channel "#ticket" (894210324859854848)
+2021-10-19 18:43:12 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:43:14 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:44:06 [[32minfo[39m] [[36mCommand[39m] "!help fun" (help) ran by "Xerox#0190" (883751808697257985) on guild "test server" (888699926840754177) channel "#ticket" (894210324859854848)
+2021-10-19 18:44:36 [[32minfo[39m] [[36mGuilds[39m] Left from "NERD HUB" (892863407047475200)
+2021-10-19 18:44:44 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:44:53 [[32minfo[39m] [[36mGuilds[39m] Joined to "NERD HUB" (892863407047475200)
+2021-10-19 18:45:35 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:45:37 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:45:41 [[32minfo[39m] [[36mGuilds[39m] Left from "NERD HUB" (892863407047475200)
+2021-10-19 18:45:55 [[32minfo[39m] [[36mGuilds[39m] Joined to "NERD HUB" (892863407047475200)
+2021-10-19 18:46:17 [[32minfo[39m] [[36mCommand[39m] "!help tickets" (help) ran by "Xerox#0190" (883751808697257985) on guild "test server" (888699926840754177) channel "#ticket" (894210324859854848)
+2021-10-19 18:46:47 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 18:46:50 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 18:48:31 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 18:53:32 [[32minfo[39m] [[36mCommand[39m] "!report" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:53:51 [[32minfo[39m] [[36mCommand[39m] "!report user @peter Disrespecting Mods" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:54:05 [[32minfo[39m] [[36mCommand[39m] "!report user <@!513728046662942722> Disrespecting Mods" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:54:36 [[32minfo[39m] [[36mCommand[39m] "!report user <@!706850821769396264> Disrespecting Mods" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:54:50 [[32minfo[39m] [[36mCommand[39m] "!report enable" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:54:56 [[32minfo[39m] [[36mCommand[39m] "!REPORT ENABLE" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#discord-updates" (899726940104196137)
+2021-10-19 18:59:18 [[32minfo[39m] [[36mShard[39m] Shard 1/1 has resumed
+2021-10-19 19:24:02 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:24:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:24:26 [[32minfo[39m] [[36mCommand[39m] "p!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "NERD HUB" (892863407047475200) channel "#general" (892863407047475203)
+2021-10-19 19:24:30 [[32minfo[39m] [[36mGuilds[39m] Left from "NERD HUB" (892863407047475200)
+2021-10-19 19:24:37 [[32minfo[39m] [[36mGuilds[39m] Joined to "NERD HUB" (892863407047475200)
+2021-10-19 19:26:59 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:27:01 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:27:08 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:27:10 [[32minfo[39m] [[36mShard[39m] Launching Shard 2
+2021-10-19 19:27:12 [[32minfo[39m] [[36mShard[39m] Shard 2/2 is connected
+2021-10-19 19:27:14 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:27:19 [[32minfo[39m] [[36mShard[39m] Shard 2/2 is connected
+2021-10-19 19:27:20 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:27:27 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:27:29 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:28:06 [[32minfo[39m] [[36mCommand[39m] "!report user <@!603369447918665729> Testing purposes" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:28:20 [[32minfo[39m] [[36mCommand[39m] "!report" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:28:29 [[32minfo[39m] [[36mCommand[39m] "!report enable <#899726939479212081>" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:28:42 [[32minfo[39m] [[36mCommand[39m] "!report disable <#899726939479212081>" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:28:48 [[32minfo[39m] [[36mCommand[39m] "!report enable <#899746449141690418>" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:28:57 [[32minfo[39m] [[36mCommand[39m] "!report user <@!603369447918665729> Testing Purposes" (report) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:30:01 [[32minfo[39m] [[36mCommand[39m] "!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:30:09 [[32minfo[39m] [[36mCommand[39m] "!help utility" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:30:16 [[32minfo[39m] [[36mCommand[39m] "!help owner" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:30:27 [[32minfo[39m] [[36mCommand[39m] "!maintenance enable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:30:28 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:30:30 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-19 19:30:55 [[32minfo[39m] [[36mCommand[39m] "!servers" (servers) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:31:28 [[32minfo[39m] [[36mCommand[39m] "!restart" (restart) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:31:29 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:31:31 [[32minfo[39m] [[36mStatus[39m] ✅ loaded Maintenance Mode 
+2021-10-19 19:32:07 [[32minfo[39m] [[36mCommand[39m] "!addpremium DevCynx" (addpremium) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:32:16 [[32minfo[39m] [[36mCommand[39m] "!addpremium DevCynx Year" (addpremium) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:32:37 [[32minfo[39m] [[36mCommand[39m] "!addpremium year" (addpremium) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:33:45 [[32minfo[39m] [[36mCommand[39m] "!addbadge" (addbadge) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:33:54 [[32minfo[39m] [[36mCommand[39m] "!addbadge 👀" (addbadge) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:34:08 [[32minfo[39m] [[36mCommand[39m] "!addbadge Developer" (addbadge) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:35:14 [[32minfo[39m] [[36mCommand[39m] "!server" (server) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:35:22 [[32minfo[39m] [[36mCommand[39m] "!server 838204798834573352" (server) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:35:30 [[32minfo[39m] [[36mCommand[39m] "!server 890664906825801829" (server) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:35:52 [[32minfo[39m] [[36mCommand[39m] "!maintenance disable" (maintenance) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:35:54 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:35:56 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:36:14 [[32minfo[39m] [[36mCommand[39m] "!databaseadd" (databaseadd) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:36:51 [[32minfo[39m] [[36mCommand[39m] "!blacklist <@!602604673236729866> testing" (blacklist) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)
+2021-10-19 19:43:47 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:43:49 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:45:09 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:45:11 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:47:34 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:47:36 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:48:40 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 19:48:42 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 19:57:04 [[32minfo[39m] [[36mCommand[39m] "!customcommands" (customcommands) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 19:58:59 [[32minfo[39m] [[36mCommand[39m] "p!help economy" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:00:02 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 20:00:04 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 20:00:17 [[32minfo[39m] [[36mCommand[39m] "p!balance" (balance) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:00:32 [[32minfo[39m] [[36mCommand[39m] "p!hunt" (hunt) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:02:01 [[32minfo[39m] [[36mCommand[39m] "p!shards" (shards) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:02:27 [[32minfo[39m] [[36mCommand[39m] "p!afk Developer Cynx is sleeping!" (afk) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:03:08 [[32minfo[39m] [[36mCommand[39m] "p!say hi" (say) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:03:19 [[32minfo[39m] [[36mCommand[39m] "p!afk DevCynx is now sleeping!" (afk) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:05:13 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 20:05:15 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 20:05:54 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 20:05:56 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 20:11:41 [[32minfo[39m] [[36mCommand[39m] "p!help" (help) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:14:49 [[32minfo[39m] [[36mShard[39m] Shard 1/1 is connected
+2021-10-19 20:14:51 [[32minfo[39m] [[36mStatus[39m] ✅ loaded: Bot Status 
+2021-10-19 20:14:55 [[32minfo[39m] [[36mCommand[39m] "p!shop" (shop) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:15:05 [[32minfo[39m] [[36mCommand[39m] "p!shop gun" (shop) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:15:12 [[32minfo[39m] [[36mCommand[39m] "p!hunt" (hunt) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:15:24 [[32minfo[39m] [[36mCommand[39m] "p!purge 100" (clear) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#💬︱general" (899726939479212078)
+2021-10-19 20:15:48 [[32minfo[39m] [[36mCommand[39m] "p!afk DevCynx Is Sleeping or at School!" (afk) ran by "DevCynx#9679" (513728046662942722) on guild "Gamers Paradise" (899726939181445200) channel "#🤖︱bot-commands" (899726939479212081)

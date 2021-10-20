@@ -1,34 +1,39 @@
-/**Use the command at your own risk!
- *We will not be responsible for the the negative outcomes, if anything wrong happens!*/
-const { MessageEmbed } = require("discord.js");
-const OWNER_ID = require("../../config.json").OWNER_ID;
-module.exports = {
-  name: "eval",
-  description: "Run a whole fuckin' code with this!",
-  botPerms: ["EMBED_LINKS"],
-  run: async (client, message, args) => {
-    //Eval Command(Not to be made public btw!)
-    if (message.author.id != OWNER_ID) {
-      return message.channel.send("Limited to the bot owner only!");
+const Command = require('../../structures/Command');
+const util = require('util');
+
+module.exports = class extends Command {
+    constructor(...args) {
+      super(...args, {
+        name: 'eval',
+        aliases: ['ev'],
+        description: 'This is for the developers.',
+        category: 'Owner',
+        usage: [ '<thing-to-eval>' ],
+        ownerOnly: true
+      });
     }
-    try {
-      const code = args.join(" ");
-      if (!code) {
-        return message.channel.send("What do you want to evaluate?");
+
+    async run(message, args) {
+      const input = args.join(' ');
+    if (!input) return message.channel.send(`What do I evaluate?`)
+    if(!input.toLowerCase().includes('token')) {
+
+    let embed =  ``;
+
+      try {
+        let output = eval(input);
+        if (typeof output !== 'string') output = require('util').inspect(output, { depth: 0 });
+        
+         embed = `\`\`\`js\n${output.length > 1024 ? 'Too large to display.' : output}\`\`\``
+
+      } catch(err) {
+        embed = `\`\`\`js\n${err.length > 1024 ? 'Too large to display.' : err}\`\`\``
       }
-      let evaled = eval(code);
 
-      if (typeof evaled !== "string") evaled = require("util").inspect(evaled);
+      message.channel.send(embed);
 
-      let embed = new MessageEmbed()
-        .setAuthor("Eval", message.author.avatarURL())
-        .addField("Input", `\`\`\`${code}\`\`\``)
-        .addField("Output", `\`\`\`${evaled}\`\`\``)
-        .setColor("GREEN");
-
-      message.channel.send({ embeds: [embed] });
-    } catch (err) {
-      message.channel.send(`\`ERROR\` \`\`\`xl\n${err}\n\`\`\``);
+    } else {
+      message.channel.send('Bruh you tryina steal my token huh?');
     }
-  },
+    }
 };
